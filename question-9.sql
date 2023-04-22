@@ -1,0 +1,2 @@
+-- Write a single SQL statement to remove anybody who lives in Kansas City (bad experience with BBQ), Pittsburgh (I dislike their football team), or Jacksonville (because Florida) from the database.
+-- (This means all three cities!)

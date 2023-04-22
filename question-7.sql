@@ -1,0 +1,1 @@
+-- Write a SQL statement to change the city for all persons currently living in Sacramento to now live in the city of Tulsa.
